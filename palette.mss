@@ -6,7 +6,7 @@
 @5: #4f758a; 
 
 @sans: "Arial Regular","DejaVu Sans Book";
-
+/* background */
 Map {
   background-color:#aebcbe;
   }
