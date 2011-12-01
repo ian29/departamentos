@@ -1,3 +1,4 @@
+/*light blue*/
 @1: #b2d6d7;
 @2: #a1c6d1;
 @3: #8ab1bf;
